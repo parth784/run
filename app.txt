@@ -1,2 +1,3 @@
 new app structure is created
-it is as follow 
+it is as follow
+some changes are being added
